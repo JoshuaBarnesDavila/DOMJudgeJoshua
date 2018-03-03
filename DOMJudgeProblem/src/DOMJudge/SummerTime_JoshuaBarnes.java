@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 
 
-public class DOMJudge17_MyProject
+public class SummerTime_JoshuaBarnes
 {
 	public static void main(String[] args)
 	{
