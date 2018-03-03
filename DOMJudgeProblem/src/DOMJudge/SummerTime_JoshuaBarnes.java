@@ -6,7 +6,7 @@ import java.util.Scanner;
  * <h2>Class DOMJUDGE17_MyProject, used for solving my DOMJUDGE problem</h2>
  * 
  * @version 1-2018
- * @author Joshua Barnes Dávila
+ * @author Joshua Barnes Davila
  * @since 1-1-2018
  */
 
@@ -65,7 +65,6 @@ public class SummerTime_JoshuaBarnes
 			}
 			
 		}while(tiempo < h && llenado < dim && r > 0);
-		System.out.println(tiempo + " " + llenado + " " + r);
 		if(llenado >= dim)
 			return "LLENADO";
 		else
