@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"DOMJudge","l":"DOMJudge17_MyProject"}]
